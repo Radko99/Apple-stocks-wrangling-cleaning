@@ -25,10 +25,6 @@ print(market.head(10))
 # Market data frame missing values
 print(market.isnull().sum().sort_values(ascending = False))
 
-# Convert data
 
-
-## Drop unecessary cols
-# market.drop
 
 
